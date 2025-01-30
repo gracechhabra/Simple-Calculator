@@ -14,8 +14,7 @@ A simple calculator program written in C++ that performs basic arithmetic operat
 🔹 **Windows:** Install [MinGW-w64](https://www.mingw-w64.org/) and add it to your system `PATH`.  
 🔹 **MacOS:** Install Xcode Command Line Tools using:  
 
-### **2. Steps**
-Ensure you have a C++ compiler installed:  
+### **2. Steps** 
 1️⃣ Clone the Repository
 
 2️⃣ Compile the Program
